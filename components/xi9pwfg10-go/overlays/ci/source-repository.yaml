@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xi9pwfg10-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xi9pwfg10-go
